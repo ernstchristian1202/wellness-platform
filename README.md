@@ -14,3 +14,11 @@ WellNest is a wellness platform built with React, Tailwind CSS, Framer Motion, a
 - Tailwind CSS: For utility-first styling and responsive design.
 - Material-UI: Provides a comprehensive suite of UI tools for a refined user experience.
 - Framer Motion: Adds smooth and sophisticated animations.
+
+## How to get started:
+```bash
+git clone git@github.com:ernstchristian1202/wellness-platform.git
+cd wellness-platform
+npm install
+npm start
+```
